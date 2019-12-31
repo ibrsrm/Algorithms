@@ -1,2 +1,2 @@
 # Algorithms
-Solutions to some of the Puzzles
+Solutions to some of the coding challenges
