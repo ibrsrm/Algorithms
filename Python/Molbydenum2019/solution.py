@@ -1,10 +1,9 @@
-/*
 
-Author: ibrsrm@gmail.com
-Task score : 100%
-ref: https://app.codility.com/programmers/challenges/molybdenum2019/
 
-*/
+#Author: ibrsrm@gmail.com
+#Task score : 100%
+#ref: https://app.codility.com/programmers/challenges/molybdenum2019/
+
 
 def checkEntry(length, number, counter, kcounter, result):
     count = (counter[number] + kcounter[number - 1] - kcounter[number])
